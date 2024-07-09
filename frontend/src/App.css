@@ -1,0 +1,30 @@
+h2 {
+  text-align: center;
+  font-size: 2em;
+}
+h3{
+  text-align: center;
+  color:green;
+  font-size: larger;
+}
+table, th, td {
+  border: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th{
+  background-color: yellow;
+  font-weight: bold;
+}
+
+td{
+  background-color: aqua;
+
+}
+#refresh {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
